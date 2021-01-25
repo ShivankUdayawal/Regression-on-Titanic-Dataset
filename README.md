@@ -49,3 +49,35 @@ The RMS Titanic was a British passenger liner that sank in the North Atlantic Oc
 * cabin : Cabin number
 
 * embarked : Port of Embarkation C = Cherbourg, Q = Queenstown, S = Southampto
+
+
+### Data Visualization
+
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/Age.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/sex.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/Survived.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/SexandSurvived.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/SurvivedandPclass.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/SurvivedandEmbarked.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/SibspandSurvived.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/ParchandSurvived.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/ROC.png)
+
+
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/TPRvsFPR.png)
