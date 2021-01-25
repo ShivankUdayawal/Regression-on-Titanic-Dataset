@@ -77,6 +77,10 @@ The RMS Titanic was a British passenger liner that sank in the North Atlantic Oc
 ![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/ParchandSurvived.png)
 
 
+![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/correlation.png)
+
+
+
 ![](https://github.com/ShivankUdayawal/Regression-on-Titanic-Dataset/blob/main/Data%20Visualization/ROC.png)
 
 
